@@ -1,0 +1,17 @@
+{
+  "name": "Time is Money",
+  "short_name": "TimeMoney",
+  "description": "See the real money cost of the time you waste — and spend it better.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06100e",
+  "theme_color": "#06100e",
+  "categories": ["finance", "productivity", "lifestyle"],
+  "icons": [
+    { "src": "./icons/icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
